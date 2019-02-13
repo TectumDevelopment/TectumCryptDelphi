@@ -1,9 +1,9 @@
 object Form1: TForm1
   Left = 221
   Top = 334
-  Width = 559
-  Height = 398
   Caption = 'Form1'
+  ClientHeight = 359
+  ClientWidth = 543
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -66,7 +66,7 @@ object Form1: TForm1
   end
   object Edit1: TEdit
     Left = 16
-    Top = 152
+    Top = 154
     Width = 305
     Height = 21
     TabOrder = 0
