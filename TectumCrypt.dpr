@@ -2,7 +2,7 @@ program TectumCrypt;
 
 uses
   Forms,
-  Unit1 in 'Unit1.pas' {Form1};
+  Unit1 in 'Crypt.pas' {Form1};
 
 {$R *.res}
 
